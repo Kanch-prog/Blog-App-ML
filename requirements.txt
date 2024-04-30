@@ -1,4 +1,4 @@
-python==3.9
+python==3.11.5
 asgiref==3.8.1
 Django==5.0.4
 joblib==1.4.0

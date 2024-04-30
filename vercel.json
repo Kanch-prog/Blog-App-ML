@@ -1,14 +1,12 @@
 {
-    "builds": [
-      {
-        "src": "myblog/wsgi.py",
-        "use": "@vercel/python"
-      }
-    ],
-    "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "myblog/wsgi.py"
-      }
-    ]
+  "version": 2,
+  "builds": [
+    { "src": "myblog/wsgi.py", "use": "@vercel/python" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "myblog/wsgi.py" }
+  ],
+  "env": {
+    "DJANGO_SETTINGS_MODULE": "myblog.settings"
+  }
 }

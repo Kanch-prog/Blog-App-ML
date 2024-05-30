@@ -1,9 +1,3 @@
-# Video of the Web App as I have used db.slqite3 cannot freely host in Vercel
-
-
-https://github.com/Kanch-prog/Blog-App-ML/assets/121807277/8fa1cf2e-507b-4041-b2ba-48a93ecc6390
-
-
 # BlogIt - A Django-based Blogging Platform
 
 BlogIt is a dynamic and interactive blogging platform developed using the Django framework. It allows users to create, manage, and view blog posts while providing personalized recommendations based on the content of the posts.
@@ -57,6 +51,7 @@ Visit http://localhost:8000 in your web browser to access the application.
 
 Demo Video
 Unfortunately, due to hosting constraints, we are unable to provide a live demo of the application. However, you can watch a video demonstration here.
+
 https://github.com/Kanch-prog/Blog-App-ML/assets/121807277/8fa1cf2e-507b-4041-b2ba-48a93ecc6390
 
 Feel free to customize this template according to your project's specific requirements and design.

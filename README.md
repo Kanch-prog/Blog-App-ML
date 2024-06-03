@@ -39,7 +39,7 @@ BlogIt is a dynamic and interactive blogging platform developed using the Django
 
 Clone the repository:
 
-git clone https://github.com/your_username/BlogIt.git
+git clone https://github.com/Kanch-prog/BlogIt.git
 cd BlogIt
 pip install -r requirements.txt
 python manage.py migrate
